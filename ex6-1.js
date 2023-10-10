@@ -1,6 +1,6 @@
 <!--
-fanction sayhello61(){
-alert('Hello,Fanction!');}
+function sayhello61(){
+alert('Hello,Function!');}
 -->
-fanction sayGoodbye(){
+function sayGoodbye(){
 alert('Goodbye');}
