@@ -1,3 +1,6 @@
+<!--
 fanction sayhello61(){
-alert('Hello,Fanction!');
-}
+alert('Hello,Fanction!');}
+-->
+fanction Goodbye(){
+alert('Goodbye');}
