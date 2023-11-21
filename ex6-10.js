@@ -1,9 +1,9 @@
 function imgchange1(){
-  document.getElementById('mitubati').src =
-    './image/8.png';
+  document.getElementById('batta').src =
+    './image/バッター.jpg';
 }
 
 function imgchange2(){
-  document.getElementById('hana').src =
-    './image/1030.png';
+  document.getElementById('pittya').src =
+    './image/ピッチャー.jpg';
 }
