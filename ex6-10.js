@@ -1,9 +1,9 @@
 function imgchange1(){
-  document.getElementById('pittya').src =
-    './image/ピッチャー.jpg';
+  document.getElementById('batta').src =
+    './image/バッター.jpg';
 }
 
 function imgchange2(){
-  document.getElementById('batta').src =
-    './image/バッター.jpg';
+  document.getElementById('pittya').src =
+    './image/ピッチャー.jpg';
 }
