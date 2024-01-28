@@ -1,6 +1,6 @@
-function imgchange5(){
+function page() {
   document.getElementById('arashi').src= './image/arashi.jpg'; 
 }
-function imgchange6(){
+function page2() {
   document.getElementById('arashi').src='./image/usiro.jpg'; 
 }
